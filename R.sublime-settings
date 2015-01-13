@@ -1,0 +1,11 @@
+{
+	"extensions":
+	[
+		"r",
+        "R",
+        ".Rprofile"
+	],
+	"indent_to_bracket": true,
+	"tab_size": 2,
+	"word_separators": "/\\()\"‘-:,;~!@#$%^&*|+=[]{}`~?"
+}

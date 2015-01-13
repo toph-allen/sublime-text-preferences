@@ -1,0 +1,11 @@
+# package Control
+Package Control.*
+
+GitHub.sublime-settings
+
+#tmp files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+.SublimeREPLHistory/

@@ -1,0 +1,33 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": false,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 0,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/User/Tomorrow R.tmTheme",
+	"enable_tab_scrolling": true,
+	"fade_fold_buttons": false,
+	"flatland_square_tabs": true,
+	"font_face": "InputMonoCondensed-Regular",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 11.5,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"remember_full_screen": false,
+	"scroll_past_end": true,
+	"soda_classic_tabs": false,
+	"soda_folder_icons": false,
+	"theme": "El Capitan.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

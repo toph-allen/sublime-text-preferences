@@ -1,0 +1,96 @@
+[
+	{
+		"args": null,
+		"command": "split_selection_into_lines"
+	},
+	{
+		"args":
+		{
+			"to": "line"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"to": "line"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args": null,
+		"command": "split_selection_into_lines"
+	},
+	{
+		"args":
+		{
+			"to": "line"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args": null,
+		"command": "split_selection_into_lines"
+	},
+	{
+		"args":
+		{
+			"contents": "\"${0:$SELECTION}\""
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"to": "hardeol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"characters": ","
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"to": "hardeol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"to": "line"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"contents": "(${0:$SELECTION})"
+		},
+		"command": "insert_snippet"
+	}
+]

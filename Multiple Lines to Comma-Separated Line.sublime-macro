@@ -1,0 +1,45 @@
+[
+	{
+		"args": null,
+		"command": "split_selection_into_lines"
+	},
+	{
+		"args":
+		{
+			"to": "hardeol"
+		},
+		"command": "move_to"
+	},
+	{
+		"args":
+		{
+			"characters": ","
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "right_delete"
+	},
+	{
+		"args":
+		{
+			"characters": " "
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"to": "line"
+		},
+		"command": "expand_selection"
+	},
+	{
+		"args":
+		{
+			"contents": "(${0:$SELECTION})"
+		},
+		"command": "insert_snippet"
+	}
+]

@@ -1,0 +1,7 @@
+[
+    { "keys": ["super+k", "super+t"], "command": "toggle_tabs" },
+    { "keys": ["super+k", "super+s"], "command": "toggle_status_bar" },
+    { "keys": ["super+alt+w"], "command": "close_all" },
+    { "keys": ["super+ctrl+m", "q"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Multiple Lines to Quoted Comma-Separated Line.sublime-macro"}},
+    { "keys": ["super+ctrl+m", "c"], "command": "run_macro_file", "args": {"file": "res://Packages/User/Multiple Lines to Comma-Separated Line.sublime-macro"}}  
+]

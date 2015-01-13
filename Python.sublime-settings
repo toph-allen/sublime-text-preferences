@@ -1,0 +1,6 @@
+{
+    "detect_indentation": false,
+    "indent_to_bracket": true,
+    // "word_wrap": "auto",
+    "wrap_width": 0
+}

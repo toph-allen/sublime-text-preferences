@@ -1,0 +1,27 @@
+{
+	"extensions":
+	[
+		"r",
+		"R",
+		"s",
+		"S",
+		".Rprofile"
+	],
+	"indent_to_bracket": true,
+	"linux":
+	{
+		"App": "tmux"
+	},
+	"osx":
+	{
+		"App": "R"
+	},
+	"r_auto_advance": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"windows":
+	{
+		"App": "R64"
+	},
+	"word_separators": "/\\()\"‘-:,;~!@#$%^&*|+=[]{}`~?"
+}
